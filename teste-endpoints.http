@@ -1,0 +1,11 @@
+### Testar dados completos
+GET http://localhost:5234/api/transacoes/dados-completos
+
+### Testar gráfico de barras  
+GET http://localhost:5234/api/transacoes/grafico-barras
+
+### Testar gráfico de linhas
+GET http://localhost:5234/api/transacoes/grafico-linhas
+
+### Testar gráfico de pizza
+GET http://localhost:5234/api/transacoes/grafico-pizza
